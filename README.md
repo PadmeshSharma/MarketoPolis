@@ -25,6 +25,20 @@ How will It Change Scenarios For Our Investors??
 
 ![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/33bc42c9-729c-4799-87bb-57ac369c4ff6)
 
+## Advantages
+
+|          |            |           |
+|----------|------------|-----------|
+|![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/f8221f18-37aa-4e10-96b6-dfc04fe75fd2) | ![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/ca32bfa5-af36-4eb4-8519-c12764ae0182) | ![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/6997958b-6776-4230-a9d0-817f11fcc9d3)|
+|Analysis Of Market Trends and Company’s Future performances
+![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/605b9f88-a549-4be8-9bbc-5198a83f854b) | Analysis Of Market Trends and Company’s Future performances
+![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/b03c486c-72ff-4cfc-919e-4625bd052bf9) | Predict which stock to buy or sell
+![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/5786cc8b-b08c-4007-8b75-592514d50efe) |
+
+
+
+
+
 
 # Features Implemented
 1. 
