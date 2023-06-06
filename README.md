@@ -12,17 +12,16 @@ The theme of the project is “Informed and Educated Investor”. The developed 
 
 ## Problem Statement – Incubating rational investment behavior amongst investors using AI/technology.
 ![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/6c074633-09a2-441b-9d87-b3b21388fb98)
-In general Scenario, we have accountants if one need to invest in any company or stock market who analyses the market situation and accordingly suggest people to invest in respective company but think…… 
+* **In general Scenario, we have accountants if one need to invest in any company or stock market who analyses the market situation and accordingly suggest people to invest in respective company but think…… **
 If we have a software for the same which with the help of technology and ongoing market situation assist general people who have not much knowledge about investment.
 
 Now, It’s a thing to ponder about……
 How will It Change Scenarios For Our Investors??
 
 ## Solution 
-|          |            |           | 
-|----------|------------|-----------|
-|![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/fd5ee223-0706-4620-94b0-141be9c41581)|![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/a070caba-2253-4d92-9ea8-a081b765f744)|![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/7564cb7e-1919-4ddd-8ab5-1176111e73ac)| 
-
+|          |            |           
+|----------|------------|
+|![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/fd5ee223-0706-4620-94b0-141be9c41581)|![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/a070caba-2253-4d92-9ea8-a081b765f744)|
 
 ![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/33bc42c9-729c-4799-87bb-57ac369c4ff6)
 
@@ -87,7 +86,7 @@ Since all the messages are getting stored in the database conversations that hap
 3. **New Technologies**: The project was a fun introduction to webRTC, sockets and databases for me and I thoroughly enjoyed learning the new technologies. With the help of my friends and mentors as well as self study I was able to grow my knowledge.
 4. **Growth mindset**: The sessions as well as the project taught me that our skills can be improved and having a growth mindset helps one and their organization in the long run.
  
-     * **yarn**
+
 ## Plans for the future
 
 We are planning to add more and more features to this project. For this, we need your help! Find out how to contribute below. 👇
