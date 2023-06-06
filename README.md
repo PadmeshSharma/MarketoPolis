@@ -33,7 +33,9 @@ How will It Change Scenarios For Our Investors??
 |![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/605b9f88-a549-4be8-9bbc-5198a83f854b) | ![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/b03c486c-72ff-4cfc-919e-4625bd052bf9) |![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/5786cc8b-b08c-4007-8b75-592514d50efe) |
 
 ## Competitive Analysis
-![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/7799a54b-6df6-44ac-b89e-d98702262f8c)
+### So…What makes the MarketoPolis different?
+- Providing risk assessment by displaying  graphs related to a company. WE CAN EMPOWER INVESTORS!
+- The ease to use than other trading softwares in market and User-friendly as it uses AI.![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/2881dd60-f40b-4b09-8a57-bba1ba454b97)
 
 
 
