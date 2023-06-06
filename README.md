@@ -10,6 +10,8 @@ Link to the project: [MarketoPolis](http:/.com/)
 ## Theme
 The theme of the project is “Informed and Educated Investor”. The developed tool, mechanism or idea should facilitate in infusing the securities market awareness amongst the general public with wider reach in cost effective manner.
 
+## Problem Statement – Incubating rational investment behavior amongst investors using AI/technology.
+
 # Features Implemented
 1. 
 
