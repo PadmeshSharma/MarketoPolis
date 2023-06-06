@@ -4,8 +4,11 @@
 The project was built as a part of the “Investor Awareness Hackathon 2023”. An educated investor is an asset to the Nation. In this purview, SEBI has always taken measures to increase securities market awareness amongst the investors. This era of digitization and involvement of artificial intelligence (AI) in each and every sphere, calls for looking at different innovative ways to spread information amongst investors and for identifying new ways of creating investor awareness.
 Link to the project: [MarketoPolis](http:/.com/)
 
-# Vision
+## Vision
 “Investor Awareness Hackathon 2023” is an open competition for thousands of enthusiasts who seek to disrupt the current method of disseminating investor awareness amongst investors. The objective of this project is to look forward to various innovative mechanisms through which the investors can be made aware and educated to handle their personal finances responsibly and invest with knowledge.
+
+## Theme
+The theme of the project is “Informed and Educated Investor”. The developed tool, mechanism or idea should facilitate in infusing the securities market awareness amongst the general public with wider reach in cost effective manner.
 
 # Features Implemented
 1. 
