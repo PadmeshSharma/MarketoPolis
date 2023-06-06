@@ -12,7 +12,7 @@ The theme of the project is “Informed and Educated Investor”. The developed 
 
 ## Problem Statement – Incubating rational investment behavior amongst investors using AI/technology.
 ![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/6c074633-09a2-441b-9d87-b3b21388fb98)
-* **In general Scenario, we have accountants if one need to invest in any company or stock market who analyses the market situation and accordingly suggest people to invest in respective company but think…… **
+* In general Scenario, we have accountants if one need to invest in any company or stock market who analyses the market situation and accordingly suggest people to invest in respective company but think…… 
 If we have a software for the same which with the help of technology and ongoing market situation assist general people who have not much knowledge about investment.
 
 Now, It’s a thing to ponder about……
