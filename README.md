@@ -90,3 +90,8 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 [![Stargazers over time](https://starchart.cc/PadmeshSharma/NISM-Project.svg)](https://starchart.cc/PadmeshSharma/NISM-Project)
 
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/PadmeshSharma/NISM-Project.svg)](https://starchart.cc/PadmeshSharma/NISM-Project)
+
