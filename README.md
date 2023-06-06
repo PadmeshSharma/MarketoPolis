@@ -66,4 +66,26 @@ Since all the messages are getting stored in the database conversations that hap
 4. **Growth mindset**: The sessions as well as the project taught me that our skills can be improved and having a growth mindset helps one and their organization in the long run.
  
      * **yarn**
-    
+## Plans for the future
+
+We are planning to add more and more features to this project. For this, we need your help! Find out how to contribute below. 👇
+
+## Contribution
+
+Any contributions are highly appreciated. :pray: You can contribute in two ways:
+
+1. create an issue and tell us your idea :bulb:. Make sure that you use the **new idea** label in this case;
+2. fork the project and submit a PR with your new idea. Before doing that, please make sure that you read and follow the [Contribution Guide](./CONTRIBUTING.md);
+
+
+## Spread the word!
+
+If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! :smiley:
+
+Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback!
+
+
+## Stars history
+
+[![Stargazers over time](https://starchart.cc/florinpop17/app-ideas.svg)](https://starchart.cc/florinpop17/app-ideas)
+
