@@ -34,11 +34,12 @@ How will It Change Scenarios For Our Investors??
 
 ## Competitive Analysis
 ### So…What makes the MarketoPolis different?
-- Providing risk assessment by displaying  graphs related to a company. WE CAN EMPOWER INVESTORS!
-- The ease to use than other trading softwares in market and User-friendly as it uses AI.![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/2881dd60-f40b-4b09-8a57-bba1ba454b97)
+.![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/2881dd60-f40b-4b09-8a57-bba1ba454b97)
 
-
-
+## Future Scope
+* Systematic alerts about growing or degrading market.
+* Making such a profile for User To achieve goals minimizing risks with higher growth and productivity
+* Providing a AI trained model which will help users who are new to software and had not much knowledge about using it.
 
 
 # Features Implemented
@@ -46,7 +47,8 @@ How will It Change Scenarios For Our Investors??
 
 # Tech Stack
 <p align ="center">
-  
+  ![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/ff9a92be-0eb4-4481-b3f6-632a5bfdf851)
+
 </p>
 
 # Implementation
