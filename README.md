@@ -85,7 +85,8 @@ If the information from this repo was useful to you in any way, make sure you gi
 Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback!
 
 
-## Stars history
+
+## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/PadmeshSharma/NISM-Project.svg)](https://starchart.cc/PadmeshSharma/NISM-Project)
 
