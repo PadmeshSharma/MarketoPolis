@@ -87,5 +87,5 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 ## Stars history
 
-[![Stargazers over time](https://starchart.cc/florinpop17/app-ideas.svg)](https://starchart.cc/florinpop17/app-ideas)
+[![Stargazers over time](https://starchart.cc/PadmeshSharma/NISM-Project.svg)](https://starchart.cc/PadmeshSharma/NISM-Project)
 
