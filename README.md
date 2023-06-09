@@ -63,44 +63,44 @@ How will It Change Scenarios For Our Investors??**
 Since all the messages are getting stored in the database conversations that happen inside the video call are also getting stored and will be available post call.
 
 # Snapshots of the project
-<h4>Video Call feature</h4>
-<img src="/teamsclone/teams/src/Images/videoCall.jpeg" width=600 height=400>
+<h4> feature</h4>
+<img src="" width=600 height=400>
 <br />
 <h4>Groups and Chat</h4>
 <p float="left">
-  <img src="/teamsclone/teams/src/Images/createGroup.png" width=400 height=300 />
-  <img src="/teamsclone/teams/src/Images/chat.png" width=400 height=300/>
+  <img src="" width=400 height=300 />
+  <img src="" width=400 height=300/>
 </p>
 <br />
 <h4>Numerous themes to choose from</h4>
 <p float="left">
-  <img src="/teamsclone/teams/src/Images/theme1.png" width=280 height=300 />
-  <img src="/teamsclone/teams/src/Images/theme2.png" width=280 height=300/>
-  <img src="/teamsclone/teams/src/Images/theme3.png" width=280 height=300/>
+  <img src="" width=280 height=300 />
+  <img src=" width=280 height=300/>
+  <img src="" width=280 height=300/>
 </p>
 <br />
 <h4>Survey forms</h4>
 <p float="left">
-  <img src="/teamsclone/teams/src/Images/feedbackCreate.png" width=280 height=300 />
-  <img src="/teamsclone/teams/src/Images/feedbackFill.png" width=280 height=300/>
-  <img src="/teamsclone/teams/src/Images/feedbackResult.png" width=280 height=300/>
+  <img src="" width=280 height=300 />
+  <img src="" width=280 height=300/>
+  <img src="" width=280 height=300/>
 </p>
 <br />
-<h4>Notes Section</h4>
-<img src="/teamsclone/teams/src/Images/notes.png" width=600 height=400 />
+<h4> Section</h4>
+<img src="" width=600 height=400 />
 <br />
 <h4>Profiles, users and connections</h4>
 <p float="left">
-  <img src="/teamsclone/teams/src/Images/profile.png" width=280 height=300 />
-  <img src="/teamsclone/teams/src/Images/users.png" width=280 height=300/>
-  <img src="/teamsclone/teams/src/Images/connectionRequests.png" width=280 height=300/>
+  <img src="" width=280 height=300 />
+  <img src="" width=280 height=300/>
+  <img src="" width=280 height=300/>
 </p>
 
 # Major Learnings
-1. **Agile Methodology**: Through the 4 week span of the project, I undertook weekly sprints and made sure that small features get implemented in an efficient and time bound manner. Having a usable version of the product from the very beginning and seeing it evolve through the days and weeks was a joyful experience.
+1. **Agile Methodology**: Through the span of the project, I undertook weekly sprints and made sure that small features get implemented in an efficient and time bound manner. Having a usable version of the product from the very beginning and seeing it evolve through the days and weeks was a joyful experience.
 2. **Perseverance and debugging skills**: Having faced numerous bugs that seemed *impossible* to solve at first to actually overcoming them felt like victory. It improved my problem solving skills and faith in hardwork.
-3. **New Technologies**: The project was a fun introduction to webRTC, sockets and databases for me and I thoroughly enjoyed learning the new technologies. With the help of my friends and mentors as well as self study I was able to grow my knowledge.
-4. **Growth mindset**: The sessions as well as the project taught me that our skills can be improved and having a growth mindset helps one and their organization in the long run.
+3. **New Technologies**: The project was a fun introduction to bitcoin technology for me and I thoroughly enjoyed learning the new technologies. With the help of my friends and mentors as well as self study I was able to grow my knowledge.
+4. **Growth mindset**: The project taught me that our skills can be improved and having a growth mindset helps one and their organization in the long run.
  
 
 ## Plans for the future
