@@ -51,28 +51,21 @@ How will It Change Scenarios For Our Investors??**
 </p>
 
 # Implementation
-1. ### Group Video Call Feature
-   In the app there are two ways one can have a video call: 
-     * Instant meeting
-     * Inside the groups<br />
-     
-   When having a call via the instant meeting, options like chat, notes and surveys is not available. This feature is for those who want to connect but dont want to create a        group or store conversations for later. For making this real time communication possible, **webRTC** with **socket.io** was used to make simple peer connections withing a mesh network. Whenever a new peer joins ze makes a simple peer connection with each of the existing peers. For the audio/video controls and the screen share feature we replace the audio/video track with the desired input. The **simple-peer** library was also used. 
-3. ### Database Models for group chat, surveys, connections etc
-   For the entire application the database service used was firestore database. On sign up each user gets added into the **users** collection and each document inside the collection(i.e each user) has certain fields like ze's email theme choice etc. Further each user also has a **connections** and **connection requests** collecton inside them. This is helpful in sending and accepting requests. Users that are connected are shown on the connections page and we have the option of creating groups with them. When a group is created the all the selected users get added in that group and the group gets added inside the **groups** collection with each group having a unique ID. Every group then has three more collections namely **messages**, **feedback forms**, **feedback results** and **notes**. The messages are rendered by the ascending order of timestamp. Feedback forms and feedback results further have the creator of the form stored inside them. This is done to avoid creator of the form from filling the form and non creators from seeing the results. When a user creates a notes it gets added inside the notes collection and similarly on deleting a note we delete the document from the notes collection. 
-<br />
-Since all the messages are getting stored in the database conversations that happen inside the video call are also getting stored and will be available post call.
-
+1. ### Information regarding investment
+   
+3. ### Graphs for companies stock markets
+   
 # Snapshots of the project
-<h4> feature</h4>
+<h4> Main page</h4>
 <img src="" width=600 height=400>
 <br />
-<h4>Groups and Chat</h4>
+<h4>Info</h4>
 <p float="left">
   <img src="" width=400 height=300 />
   <img src="" width=400 height=300/>
 </p>
 <br />
-<h4>Numerous themes to choose from</h4>
+<h4>Numerous stock markets to choose from</h4>
 <p float="left">
   <img src="" width=280 height=300 />
   <img src=" width=280 height=300/>
