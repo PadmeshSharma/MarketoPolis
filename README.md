@@ -1,4 +1,4 @@
-# NISM-Project
+# Marketopolis
 ![1920-1](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/fe72e9a4-96fc-4034-8fc1-892d50de9714)
 
 The project was built as a part of the “Investor Awareness Hackathon 2023”. An educated investor is an asset to the Nation. In this purview, SEBI has always taken measures to increase securities market awareness amongst the investors. This era of digitization and involvement of artificial intelligence (AI) in each and every sphere, calls for looking at different innovative ways to spread information amongst investors and for identifying new ways of creating investor awareness.
