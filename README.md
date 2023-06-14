@@ -18,9 +18,6 @@ If we have a software for the same which with the help of technology and ongoing
 How will It Change Scenarios For Our Investors??**
 
 ## Solution 
-|          |            |           
-|----------|------------|
-
 ![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/33bc42c9-729c-4799-87bb-57ac369c4ff6)
 
 ## Advantages
