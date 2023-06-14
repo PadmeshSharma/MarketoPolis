@@ -53,7 +53,7 @@ How will It Change Scenarios For Our Investors??**
    
 # Snapshots of the project
 <h3> Login page</h3>
-<img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/Login%20Page.jpg" width=600 height=400>
+<img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/Login%20Page.jpg" width=800 height=400>
 <br />
 <h3> Profile Logged In</h3>
 <img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/Logged%20In%20Page.jpg" width=800 height=400 />
@@ -61,20 +61,20 @@ How will It Change Scenarios For Our Investors??**
 
 <h3>Info</h3>
 <p float="left">
-  <img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/About.jpg" width=600 height=400/>
-  <img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/Strategy.jpg" width=600 height=400 />
-  <img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/Overview.jpg" width=600 height=400/>
+  <img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/About.jpg" width=800 height=400/>
+  <img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/Strategy.jpg" width=800 height=400 />
+  <img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/Overview.jpg" width=800 height=400/>
 </p>
 <br />
 <h3>Numerous stock markets to choose from, represented by bar charts and graphs</h3>
 <p float="left">
-  <img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/Statistics.jpg" width=600 height=400 />
-  <img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/Graphs%20%26%20charts.jpg" width=600 height=400/>
+  <img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/Statistics.jpg" width=800 height=400 />
+  <img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/Graphs%20%26%20charts.jpg" width=800 height=400/>
 </p>
 <br />
 <h3>Thank you page</h3>
 <p float="left">
-  <img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/Thank%20you%20page.jpg" width=600 height=400/>
+  <img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/Thank%20you%20page.jpg" width=800 height=400/>
 </p>
 
 # Major Learnings
