@@ -20,7 +20,6 @@ How will It Change Scenarios For Our Investors??**
 ## Solution 
 |          |            |           
 |----------|------------|
-|![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/fd5ee223-0706-4620-94b0-141be9c41581)|![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/a070caba-2253-4d92-9ea8-a081b765f744)|
 
 ![image](https://github.com/PadmeshSharma/NISM-Project/assets/100578426/33bc42c9-729c-4799-87bb-57ac369c4ff6)
 
