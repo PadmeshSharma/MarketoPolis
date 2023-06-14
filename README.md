@@ -56,8 +56,9 @@ How will It Change Scenarios For Our Investors??**
 3. ### Graphs for companies stock markets
    
 # Snapshots of the project
-<h4> Main page</h4>
-<img src="" width=600 height=400>
+<h4> Login page</h4>
+<img src="![image](https://github.com/PadmeshSharma/MarketoPolis/assets/100578426/9a5c72c4-41df-44ae-a417-cb4b069b9f4e)
+" width=600 height=400>
 <br />
 <h4>Info</h4>
 <p float="left">
