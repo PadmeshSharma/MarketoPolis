@@ -57,36 +57,27 @@ How will It Change Scenarios For Our Investors??**
    
 # Snapshots of the project
 <h4> Login page</h4>
-<img src="![image](https://github.com/PadmeshSharma/MarketoPolis/assets/100578426/9a5c72c4-41df-44ae-a417-cb4b069b9f4e)
-" width=600 height=400>
+<img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/Login%20Page.jpg" width=600 height=400>
 <br />
+<h4> Profile Logged In</h4>
+<img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/Logged%20In%20Page.jpg" width=600 height=400 />
+<br />
+
 <h4>Info</h4>
 <p float="left">
-  <img src="" width=400 height=300 />
-  <img src="" width=400 height=300/>
+  <img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/About.jpg" width=280 height=300/>
+  <img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/Strategy.jpg" width=280 height=300 />
+  <img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/Overview.jpg" width=280 height=300/>
 </p>
 <br />
-<h4>Numerous stock markets to choose from</h4>
+<h4>Numerous stock markets to choose from, represented by bar charts and graphs</h4>
 <p float="left">
-  <img src="" width=280 height=300 />
-  <img src=" width=280 height=300/>
-  <img src="" width=280 height=300/>
+  <img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/Statistics.jpg" width=420 height=300 />
+  <img src="https://github.com/PadmeshSharma/MarketoPolis/blob/main/Graphs%20%26%20charts.jpg" width=420 height=300/>
 </p>
 <br />
-<h4>Survey forms</h4>
+<h4>Thank you page</h4>
 <p float="left">
-  <img src="" width=280 height=300 />
-  <img src="" width=280 height=300/>
-  <img src="" width=280 height=300/>
-</p>
-<br />
-<h4> Section</h4>
-<img src="" width=600 height=400 />
-<br />
-<h4>Profiles, users and connections</h4>
-<p float="left">
-  <img src="" width=280 height=300 />
-  <img src="" width=280 height=300/>
   <img src="" width=280 height=300/>
 </p>
 
