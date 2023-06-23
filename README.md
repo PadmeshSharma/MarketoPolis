@@ -93,9 +93,17 @@ How Will It Change Scenarios For Our Investors??**
 4. **Growth mindset**: The project taught me that our skills can be improved and having a growth mindset helps one and their organization in the long run.
  
 
-## Plans for the future
+## Project Contributors
 
-We are planning to add more and more features to this project. For this, we need your help! Find out how to contribute below. 👇
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/PadmeshSharma"><img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/c.jpg" width="100px;" alt=""/><br /><sub><b>Padmesh sharma</b></sub></a></td>
+   
+<td align="center"><a href="https://github.com/SoniMuskan"><img src=" __" width="100px;" alt=""/><br /><sub><b>Muskan Soni</b></sub></a></td>
+
+   
+ </tr>
+</table>
 
 ## Contribution
 
