@@ -101,7 +101,7 @@ We are planning to add more and more features to this project. For this, we need
 
 Any contributions are highly appreciated. :pray: You can contribute in two ways:
 
-1. create an issue and tell us your idea: bulb. Make sure that you use the **new idea** label in this case;
+1. create an issue and tell us your idea :bulb: . Make sure that you use the **new idea** label in this case;
 2. fork the project and submit a PR with your new idea. Before doing that, please make sure that you read and follow the [Contribution Guide](./CONTRIBUTING.md);
 
 
